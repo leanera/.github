@@ -1,7 +1,7 @@
-- Hello, we are LeanEra! 🏙
+- Hello, we are LeanERA! 🏙
 - We are a company, based in Leipzig, Germany and Berlin, Germany! 🌍
 - We help to scale and digitalize your business. 🏆
-- Our Backend Developers are currently writing Serverless Functions in the GoogleCloud using TypeScript and NestJS ✨
+- Our Backend Developers are currently writing Serverless Functions in the Google Cloud using TypeScript and NestJS ✨
 - Our Frontend Developers use Vue 3, Vite, Nuxt 3, Tailwind CSS and Pinia ✨
 - Check out our Repository and get to know us better! 🤝🏻
 - Contact us via @aliiine 👩🏻
